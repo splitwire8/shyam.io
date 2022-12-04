@@ -2,7 +2,7 @@ body {
   background-color: lightgreen;
 
   /* Smoothly transition the background color */
-  transition: background-color .2s;
+  transition: background-color .7s;
 }
 
 .player {
